@@ -9,3 +9,9 @@
   .articleHeadline {
     line-height: 1.5;
 }
+
+#add-train-btn {
+    background-color:  #20315A; 
+    color: white;
+    float: right;
+}
