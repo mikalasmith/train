@@ -21,9 +21,9 @@ namely their arrival times and how many minutes remain until they arrive at thei
         -check that everything is being loaded to the firebase database --done
 
 3. Use moment.js to compute:
-    -how many minutes away the next train is
-    -at what time the next arrival will be
+    -how many minutes away the next train is --done
+    -at what time the next arrival will be-- done
 
-4. Render input onto webpage with moment.js calculations running everytime page is refreshed.
+4. Render input onto webpage with moment.js calculations running everytime page is refreshed. --done
         
     
