@@ -54,7 +54,7 @@ database.ref().on("child_added", function (childSnapshot, prevChildKey) {
     var firstTrain = childSnapshot.val().first;
     var trainFrequency = childSnapshot.val().frequency;
 
-    // Employee Info
+    // Train Name Info
     console.log(trainName);
     console.log(trainDestination);
     console.log(firstTrain);
